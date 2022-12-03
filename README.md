@@ -1,6 +1,14 @@
 # Research Papers
 This repository contains useful research papers. They do not cater to a specific domain. 
 
+## Research Methodology | Best Practices ##
+### [How to Read a Paper | S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) ###
+
+*Abstract* : Researchers spend a great deal of time reading research papers. However, this skill is rarely taught, leading to much
+wasted effort. This article outlines a practical and efficient
+three-pass method for reading research papers. I also describe how to use this method to do a literature survey.
+
+
 ## Machine Learning | Convolutional Neural Network | Application ## 
 ### [Judging a Book by Its Cover](https://arxiv.org/pdf/1610.09204.pdf) ### 
 
